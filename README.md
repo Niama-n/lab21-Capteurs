@@ -389,7 +389,7 @@ La demande est effectuée dynamiquement via `ActivityResultLauncher` au premier 
 | Thème incorrect | Nettoyer le build : **Build → Clean Project → Rebuild** |
 
 ---
-## Realise par
+## Realise par:
 NAFTAOUI NIAMA
 
 
