@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+id drawer_layout
+id fragment_container
+id menu_accelerometer
+id menu_activity
+id menu_compass
+id menu_gravity
+id menu_gyroscope
+id menu_humidity
+id menu_magnetic
+id menu_proximity
+id menu_sensors
+id menu_steps
+id menu_temperature
+id navigation_view
+id toolbar
+layout activity_main
+menu nav_menu
+string app_name
+string nav_close
+string nav_open
+style Theme.Sensors

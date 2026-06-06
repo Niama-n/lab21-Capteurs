@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppSensor" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/accent_violet</item>
+        <item name="colorPrimaryDark">@color/accent_violet_dark</item>
+        <item name="colorAccent">@color/accent_gold</item>
+        <item name="android:windowBackground">@color/surface_deep</item>
+        <item name="android:statusBarColor">@color/surface_elevated</item>
+        <item name="android:navigationBarColor">@color/surface_deep</item>
+    </style>
+</resources>

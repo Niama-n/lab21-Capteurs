@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_catalog"
+            android:title="@string/nav_catalog" />
+
+        <item
+            android:id="@+id/nav_heat"
+            android:title="@string/nav_heat" />
+
+        <item
+            android:id="@+id/nav_moisture"
+            android:title="@string/nav_moisture" />
+
+        <item
+            android:id="@+id/nav_range"
+            android:title="@string/nav_range" />
+
+        <item
+            android:id="@+id/nav_field"
+            android:title="@string/nav_field" />
+
+        <item
+            android:id="@+id/nav_accel"
+            android:title="@string/nav_accel" />
+
+        <item
+            android:id="@+id/nav_grav"
+            android:title="@string/nav_grav" />
+
+        <item
+            android:id="@+id/nav_spin"
+            android:title="@string/nav_spin" />
+
+        <item
+            android:id="@+id/nav_pace"
+            android:title="@string/nav_pace" />
+
+        <item
+            android:id="@+id/nav_heading"
+            android:title="@string/nav_heading" />
+
+        <item
+            android:id="@+id/nav_motion"
+            android:title="@string/nav_motion" />
+
+    </group>
+
+</menu>

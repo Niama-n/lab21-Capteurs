@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppSENSOR</string>
+    <string name="nav_open">Open navigation panel</string>
+    <string name="nav_close">Close navigation panel</string>
+
+    <!-- Drawer sections -->
+    <string name="nav_catalog">📋 Device Peripherals</string>
+    <string name="nav_heat">🌡️ Ambient Heat</string>
+    <string name="nav_moisture">💧 Air Moisture</string>
+    <string name="nav_range">📡 Proximity Range</string>
+    <string name="nav_field">🧲 Magnetic Field</string>
+    <string name="nav_accel">📐 Acceleration Axes</string>
+    <string name="nav_grav">⬇️ Gravity Vector</string>
+    <string name="nav_spin">🔄 Rotation Rate</string>
+    <string name="nav_pace">👣 Step Tracker</string>
+    <string name="nav_heading">🧭 Digital Heading</string>
+    <string name="nav_motion">🏃 Motion Classifier</string>
+
+    <!-- Screen titles -->
+    <string name="title_catalog">Registered Peripherals</string>
+    <string name="title_heat">Ambient Temperature</string>
+    <string name="title_moisture">Relative Humidity</string>
+    <string name="title_range">Proximity Sensor</string>
+    <string name="title_field">Magnetic Field Strength</string>
+    <string name="title_accel">Accelerometer — X, Y, Z</string>
+    <string name="title_grav">Gravity — X, Y, Z</string>
+    <string name="title_spin">Gyroscope — rad/s</string>
+    <string name="title_pace">Step Tracker</string>
+    <string name="title_heading">Digital Heading</string>
+    <string name="title_motion">Motion Classifier</string>
+
+    <!-- Status messages -->
+    <string name="msg_sensor_mock">Hardware unavailable — running mock feed.</string>
+    <string name="msg_sensor_missing">Peripheral not found on this device.</string>
+    <string name="msg_pace_missing">Step counter peripheral unavailable.</string>
+    <string name="msg_permission_denied">Activity permission denied.</string>
+    <string name="msg_compass_missing">Heading unavailable: missing peripheral.</string>
+    <string name="msg_accel_missing">Accelerometer peripheral unavailable.</string>
+    <string name="msg_waiting_data">Awaiting incoming samples…</string>
+    <string name="msg_calibrating">Calibrating…</string>
+
+    <!-- Labels -->
+    <string name="label_reading">Reading: %1$s</string>
+    <string name="label_axis_x">X: %1$s</string>
+    <string name="label_axis_y">Y: %1$s</string>
+    <string name="label_axis_z">Z: %1$s</string>
+    <string name="label_magnitude">Magnitude: %1$s</string>
+    <string name="label_movement">Movement: %1$s</string>
+    <string name="label_detected">Detected motion</string>
+    <string name="label_azimuth">Azimuth: %1$s°</string>
+    <string name="label_direction">Bearing: %1$s</string>
+    <string name="label_steps_boot">Steps since boot</string>
+    <string name="label_steps_session">Session steps</string>
+    <string name="label_steps_unit">%1$d steps</string>
+</resources>

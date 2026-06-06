@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SensorsApp</string>
+    <string name="nav_close">Fermer le menu</string>
+    <string name="nav_open">Ouvrir le menu</string>
+    <style name="Theme.Sensors" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">#00BCD4</item>
+        <item name="colorPrimaryDark">#006064</item>
+        <item name="colorAccent">#00BCD4</item>
+        <item name="android:windowBackground">#0D1117</item>
+        <item name="android:statusBarColor">#161B22</item>
+        <item name="android:navigationBarColor">#0D1117</item>
+    </style>
+</resources>
